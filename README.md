@@ -3,6 +3,8 @@
 Welcome to the **SQL Data Analytics Project**, a comprehensive collection of SQL scripts designed to demonstrate advanced data analysis techniques. 
 This project showcases real-world scenarios, emphasizing best practices in SQL for data exploration, segmentation, and reporting.
 
+![Project_Roadmap](https://github.com/Sonawane-Karan26/DataWareHouseAnalytics/blob/main/docs/Project_Roadmap.png)
+
 ## 📁 Project Structure
 
 - **datasets/**: Contains the raw data files used for analysis.
